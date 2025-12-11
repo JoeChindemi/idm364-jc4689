@@ -1,0 +1,8 @@
+/* $lib/css/style.css */
+* {
+  font-family: 'Helvetica';
+}
+
+body{
+  background-color:rgb(216, 232, 255);
+}
